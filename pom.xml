@@ -4,14 +4,13 @@
 
 	<groupId>idv.danceframework</groupId>
 	<artifactId>danceframework-project</artifactId>
-	<version>${project.version}</version>
+	<version>0.0.1</version>
 	<packaging>pom</packaging>
 
 	<name>parent-project</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
-		<project.version>0.0.1-SNAPSHOT</project.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<poi.version>3.16</poi.version>
 		<maven.compiler.source>1.8</maven.compiler.source>

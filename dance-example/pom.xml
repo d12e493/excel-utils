@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>idv.danceframework</groupId>
 		<artifactId>danceframework-project</artifactId>
-		<version>${project.version}</version>
+		<version>0.0.1</version>
 	</parent>
 	<artifactId>dance-example</artifactId>
 	<name>dance-example</name>
@@ -24,7 +24,7 @@
 		<dependency>
 			<groupId>idv.danceframework</groupId>
 			<artifactId>dance-export</artifactId>
-			<version>${project.version}</version>
+			<version>0.0.1</version>
 		</dependency>
 	</dependencies>
 </project>

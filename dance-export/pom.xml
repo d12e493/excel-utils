@@ -6,11 +6,12 @@
 	<parent>
 		<groupId>idv.danceframework</groupId>
 		<artifactId>danceframework-project</artifactId>
-		<version>${project.version}</version>
+		<version>0.0.1</version>
 	</parent>
 	<artifactId>dance-export</artifactId>
 	<name>dance-export</name>
 	<url>http://maven.apache.org</url>
+	<packaging>jar</packaging>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
@@ -24,12 +25,12 @@
 		<dependency>
 			<groupId>idv.danceframework</groupId>
 			<artifactId>dance-core</artifactId>
-			<version>${project.version}</version>
+			<version>0.0.1</version>
 		</dependency>
 		<dependency>
 			<groupId>idv.danceframework</groupId>
 			<artifactId>dance-util</artifactId>
-			<version>${project.version}</version>
+			<version>0.0.1</version>
 		</dependency>
 	</dependencies>
 </project>
